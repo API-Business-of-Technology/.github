@@ -95,6 +95,12 @@ Support professionnel, intégrations, DevOps, clients.
 
 ---
 
+## Sponsors
+API Business Technology remercie toutes les personnes et organisations qui soutiennent nos projets open‑source.
+
+Devenir sponsor : https://github.com/sponsors/apibusinesstechnology  
+Support officiel : https://www.apibusinesstechnology.com/support
+
 ## **Contact**
 apibusinesstechnology@gmail.com  
 [www.apibusinesstechnology.com](http://www.apibusinesstechnology.com)  
