@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="./profile/banierre_APIBusiness.png" alt="API Business Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile/iconeAPI.png" alt="API Business Logo" width="180" />
-</p>
-
-<h1 align="center">API Business Technology</h1>
-
-<p align="center">
-  Startup technologique canadienne spécialisée en IA, IoT, automatisation, DevOps et solutions d’entreprise.
-</p>
-
----
+--
 
 # **README — API Business Technology**
 
