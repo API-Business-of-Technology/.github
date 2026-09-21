@@ -107,3 +107,7 @@ apibusinesstechnology@gmail.com
 Canada
 
 ---
+© 2026 API Business Technology. All rights reserved.
+API Business Technology™, Project Docs™, Smart Farm™, AI Security™ and all related logos, banners, and branding elements are trademarks of API Business Technology.
+Unauthorized use, reproduction, or distribution is strictly prohibited.
+
